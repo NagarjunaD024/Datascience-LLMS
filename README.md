@@ -12,7 +12,7 @@
 
 ---
 
-My goal with this book was to create a practical, hands-on guide for data scientists and developers looking to harness the power of Large Language Models. This repository contains the code for all the mini-projects discussed in the book, allowing you to directly apply and experiment with the concepts we cover from basic text classification to building sophisticated, autonomous agents.
+This repository contains practical guide for developers and data scientists, allowing to directly apply and experiment with the concepts we cover from basic text classification to building sophisticated, autonomous agents.
 
 ---
 
