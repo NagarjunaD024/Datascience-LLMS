@@ -1,2 +1,2 @@
 # Datascience-LLMS
-Streamling Datascience tasks with LLMS
+Streamlining Data Analytics tasks with LLMS
