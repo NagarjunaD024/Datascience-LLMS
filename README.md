@@ -20,7 +20,7 @@ This repository contains practical guide for developers and data scientists, all
 
 This repository is structured to provide a self-contained implementation of a key data analysis tasks.
 
-| Chapter Focus | Key Projects / Notebooks | Core Concepts |
+| Repository | Key Projects / Notebooks | Core Concepts |
 | :--- | :--- | :--- |
 | **Foundational Skills** | `DataScience_GPT.ipynb` | Basic API setup, model interaction, prompt customization. |
 | **Text Analysis** | `Classification.ipynb`<br>`Information_Extraction.ipynb`<br>`Clustering.ipynb` | Sentiment analysis, structured data extraction, and clustering with vector embeddings. |
