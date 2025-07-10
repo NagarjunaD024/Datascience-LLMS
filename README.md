@@ -12,13 +12,13 @@
 
 ---
 
-This repository contains practical guide for developers and data scientists, allowing to directly apply LLMS into workflows and experiment with the concepts from basic text classification to building sophisticated, autonomous agents.
+This repository contains practical guide for developers and data scientists, allowing to directly apply LLMS into workflows and experiment with concepts from basic text classification to building sophisticated, autonomous agents.
 
 ---
 
 ### 🚀 What You'll Find Inside
 
-This repository is structured to provide a clear path from fundamental techniques to advanced applications. Each notebook is a self-contained implementation of a key data analysis task.
+This repository is structured to provide a self-contained implementation of a key data analysis tasks.
 
 | Chapter Focus | Key Projects / Notebooks | Core Concepts |
 | :--- | :--- | :--- |
